@@ -1,8 +1,12 @@
 body {
 	  font-family: monospace;
-	    color: navy;
-	      padding: 40px;
+          color: navy;
+          padding: 40px;
       }
-      .header {
-	        font-weight: 500;
+.header {
+          font-weight: 500;
+	
 	}
+.hidden {
+          display: none;
+        }
